@@ -1,0 +1,13 @@
+#,Country,Agricultural City / Basin,Latitude (--lat),Longitude (--lon),Annual Rain,Soil Profile,Expected testb.py Output Profile
+1,Egypt (Baseline),Al-Qalaj / Khanka (Nile Delta),30.22,31.375,~45 mm,Fluvisol / Alluvial Clay,"AEZ01 | Irrig: HIGH | Crops: lentil, mungbean, watermelon"
+2,Pakistan,Multan (Indus River Plain),30.1575,71.5249,~185 mm,Fluvisol / Silty Clay,"AEZ01 | Irrig: HIGH | Crops: cotton, mungbean, lentil"
+3,Iraq,Al-Hillah (Euphrates Alluvial Plain),32.4637,44.4196,~115 mm,Fluvisol / Alluvial Clay,"AEZ01 | Irrig: HIGH | Crops: lentil, watermelon, maize"
+4,Syria,Deir ez-Zor (Middle Euphrates),35.3359,40.1408,~155 mm,Fluvisol / Clay Loam,"AEZ01 | Irrig: HIGH | Crops: cotton, lentil, muskmelon"
+5,Jordan,Deir Alla (Jordan River Valley),32.195,35.621,~220 mm,Calcisol / Alluvial Clay,"AEZ01 | Irrig: HIGH | Crops: watermelon, muskmelon, lentil"
+6,Sudan,Wad Madani (Al Jazirah Blue Nile),14.4012,33.5199,~230 mm,Vertisol / Heavy Clay,"AEZ01 | Irrig: HIGH | Crops: cotton, mungbean, watermelon"
+7,India,Sri Ganganagar (Indira Canal Belt),29.9038,73.8772,~225 mm,Alluvial Clay-Loam,"AEZ01 | Irrig: HIGH | Crops: cotton, mungbean, blackgram"
+8,USA,"Yuma (Lower Colorado Valley, AZ)",32.6927,-114.6277,~85 mm,Fluvisol / Alluvial Clay,"AEZ01 | Irrig: HIGH | Crops: watermelon, muskmelon, cotton"
+9,Mexico,Mexicali (Colorado Delta Valley),32.55,-115.35,~75 mm,Fluvisol / Delta Clay,"AEZ01 | Irrig: HIGH | Crops: cotton, watermelon, muskmelon"
+10,Peru,Ica (Ica River Coastal Oasis),-14.0678,-75.7286,~15 mm,Fluvisol / Alluvial Loam,"AEZ01 | Irrig: HIGH | Crops: cotton, mungbean, watermelon"
+11,Morocco,Zagora (Draa River Alluvial Oasis),30.3324,-5.8384,~70 mm,Fluvisol / Oasis Clay,"AEZ01 | Irrig: HIGH | Crops: watermelon, lentil, mungbean"
+12,Saudi Arabia,Al-Hofuf (Al-Ahsa Irrigated Oasis),25.3833,49.5833,~85 mm,Calcisol / Oasis Clay,"AEZ01 | Irrig: HIGH | Crops: mungbean, watermelon, muskmelon"
